@@ -1,0 +1,1 @@
+Sitemap: https://aiplatforms.netlify.app/sitemap.xml
